@@ -10,4 +10,4 @@ All 8 problem solutions are in a single file, `solutions.ts`. The repository als
 1. [type-vs-interface.md](./type-vs-interface.md)
 2. [union-and-intersection.md](./union-and-intersection.md)
 
-The blogs is bout type vs interface and union and intersection uses in typescript.
+The blogs is about type vs interface and union and intersection uses in typescript.
